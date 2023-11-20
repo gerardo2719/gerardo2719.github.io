@@ -1,2 +1,2 @@
-# gerardo2719.github.io
-CheatSheet
+# Fallos comunes
+## Fallo al instalar paquetes Windows 11
